@@ -1,0 +1,2 @@
+# beadando
+Alk. fejl. beadandó
